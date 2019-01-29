@@ -1,0 +1,93 @@
+html {
+    
+    background: #F7FBFC;
+    font-size: 100%;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    background-color: #F7FBFC;
+
+}
+
+.content {
+    max-width: 600px;
+    padding-top: 2em;
+    margin: 1.5em auto;
+}
+
+.content:hover {
+    cursor: grab;
+}
+
+a {
+    text-decoration: none;
+    color: #383A3D;
+    font-size: 1rem;
+    
+}
+
+a.links { 
+    color: #f0cf61;
+    
+}
+
+a.links:hover {
+    color: #DDAE13;
+}
+
+a.links-indent { 
+    color: #f0cf61;
+    margin-left: 1.5rem;
+}
+
+a.links-indent:hover {
+    color: #DDAE13;
+    cursor: e-resize;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #f0cf61;
+    font-weight: 600;
+    margin-bottom: 6rem;
+}
+
+h2 {
+    font-size: 1.15rem;
+    color: #969FA3;
+    font-weight: 400;
+    line-height: 2rem;
+    
+}
+
+h5 {
+    font-size: 0.75rem;
+    color: #383A3D;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-top: 6rem;
+    
+}
+
+p.one {
+    font-size: 1.25rem;
+    color: #969FA3;
+    font-weight:400;
+    line-height: 1.75rem;
+}
+
+span.two {
+    font-size: 1.25rem;
+    color: #383A3D;
+    font-weight: 300;
+    line-height: 0.5rem;
+   
+}
+
+@media (max-width: 600px)
+.content {
+    margin: 1.5em;
+    padding-top: 0;
+}
