@@ -36,6 +36,17 @@ a.links:hover {
     color: #DDAE13;
 }
 
+span.links { 
+    color: #f0cf61;
+    
+}
+
+span.links:hover {
+    color: #DDAE13;
+    cursor: e-resize;
+}
+
+
 a.links-indent { 
     color: #f0cf61;
     margin-left: 1.5rem;
@@ -55,7 +66,7 @@ h1 {
 
 h2 {
     font-size: 1.15rem;
-    color: #969FA3;
+    color: #666F84;
     font-weight: 400;
     line-height: 2rem;
     
@@ -73,7 +84,7 @@ h5 {
 
 p.one {
     font-size: 1.25rem;
-    color: #969FA3;
+    color: #666F84;
     font-weight:400;
     line-height: 1.75rem;
 }
