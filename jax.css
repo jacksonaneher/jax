@@ -43,7 +43,6 @@ span.links {
 
 span.links:hover {
     color: #DDAE13;
-    cursor: e-resize;
 }
 
 
@@ -54,7 +53,6 @@ a.links-indent {
 
 a.links-indent:hover {
     color: #DDAE13;
-    cursor: e-resize;
 }
 
 h1 {
