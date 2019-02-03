@@ -95,8 +95,3 @@ span.two {
    
 }
 
-@media (max-width: 600px){
-.content {
-    margin: 1.5em;
-    padding-top: 0;
-}
