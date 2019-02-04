@@ -34,6 +34,8 @@ a.links {
 
 a.links:hover {
     color: #DDAE13;
+    text-decoration: underline;
+    text-decoration-color: #DDAE13;
 }
 
 span.links { 
@@ -43,6 +45,8 @@ span.links {
 
 span.links:hover {
     color: #DDAE13;
+    text-decoration: underline;
+    text-decoration-color: #DDAE13;
 }
 
 
@@ -53,6 +57,8 @@ a.links-indent {
 
 a.links-indent:hover {
     color: #DDAE13;
+    text-decoration: underline;
+    text-decoration-color: #DDAE13;
 }
 
 h1 {
