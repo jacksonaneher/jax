@@ -28,7 +28,7 @@ a {
 }
 
 a.links { 
-    font-family: Inconsolata;
+    font-family: 'Inconsolata';
     color: #f0cf61;
     
 }
@@ -52,7 +52,7 @@ span.links:hover {
 
 
 a.links-indent { 
-    font-family: Inconsolata;
+    font-family: 'Inconsolata';
     color: #f0cf61;
     margin-left: 1.5rem;
 }
@@ -64,7 +64,7 @@ a.links-indent:hover {
 }
 
 h1 {
-    font-family: Dela Gothic One;
+    font-family: 'Dela Gothic One';
     font-size: 2rem;
     color: #E1E0D4;
 }
@@ -78,13 +78,13 @@ h2 {
 }
 
 h3{
-    font-family: Pilowlava;
+    font-family: 'Pilowlava';
     font-size: 1.15rem;
     color: #E1E0D4;
 }
 
 h5 {
-    font-family: Dela Gothic One;
+    font-family: 'Dela Gothic One';
     font-size: 0.75rem;
     color: #E1E0D4;
     font-weight: 800;
