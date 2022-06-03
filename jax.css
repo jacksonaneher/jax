@@ -1,12 +1,12 @@
 html {
     
-    background: #F7FBFC;
+    background: #222222;
     font-size: 100%;
 }
 
 body {
-    font-family: 'Work Sans', sans-serif;
-    background-color: #F7FBFC;
+    font-family: 'Avenir Next', sans-serif;
+    background-color: #222222;
 
 }
 
@@ -22,12 +22,13 @@ body {
 
 a {
     text-decoration: none;
-    color: #383A3D;
+    color: #E1E0D4;
     font-size: 1rem;
     
 }
 
 a.links { 
+    font-family: Inconsolata;
     color: #f0cf61;
     
 }
@@ -51,6 +52,7 @@ span.links:hover {
 
 
 a.links-indent { 
+    font-family: Inconsolata;
     color: #f0cf61;
     margin-left: 1.5rem;
 }
@@ -62,23 +64,29 @@ a.links-indent:hover {
 }
 
 h1 {
+    font-family: Dela Gothic One;
     font-size: 2rem;
-    color: #f0cf61;
-    font-weight: 600;
-    margin-bottom: 6rem;
+    color: #E1E0D4;
 }
 
 h2 {
     font-size: 1.15rem;
-    color: #666F84;
+    color: #E1E0D4;
     font-weight: 400;
     line-height: 2rem;
     
 }
 
+h3{
+    font-family: Pilowlava;
+    font-size: 1.15rem;
+    color: #E1E0D4;
+}
+
 h5 {
+    font-family: Dela Gothic One;
     font-size: 0.75rem;
-    color: #383A3D;
+    color: #E1E0D4;
     font-weight: 800;
     letter-spacing: 1.5px;
     text-transform: uppercase;
@@ -88,14 +96,15 @@ h5 {
 
 p.one {
     font-size: 1.25rem;
-    color: #666F84;
+    color: #E1E0D4;
     font-weight:400;
     line-height: 1.75rem;
 }
 
+
 span.two {
-    font-size: 1.25rem;
-    color: #383A3D;
+    font-size: 1rem;
+    color: #E1E0D4;
     font-weight: 300;
     line-height: 0.5rem;
    
