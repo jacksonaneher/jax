@@ -3,7 +3,3 @@
   src: url("jax/css/Pilowlava-Regular-webfont.woff2") format("woff2"),
        url("jax/css/Pilowlava-Regular-webfont.woff") format("woff");
 }
-
-html {
-  font-family: "Pilowlava-Regular", "Pilowlava";
-}
