@@ -1,4 +1,6 @@
 @font-face {
   font-family: Pilowlava;
-  src: url(pilow-lava.woff);
+  src: url(pilow-lava.eot);
+  src: url("css/pilow-lava.woff") format("woff"),
+       url("css/fonts/pilow-lava.woff2") format("woff2"),
 }
