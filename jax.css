@@ -110,6 +110,11 @@ span.two {
    
 }
 
+@font-face {
+  font-family: 'Pilowlava';
+  src: url(pilowlava-regular.woff);
+}
+
 @media (max-width: 600px) {
   .content {
     margin: 1.5em;
