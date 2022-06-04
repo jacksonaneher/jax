@@ -107,12 +107,6 @@ span.two {
     color: #E1E0D4;
     font-weight: 300;
     line-height: 0.5rem;
-   
-}
-
-@font-face {
-  font-family: 'Pilowlava';
-  src: url(pilowlava-regular.woff);
 }
 
 @media (max-width: 600px) {
