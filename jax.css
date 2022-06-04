@@ -114,12 +114,3 @@ span.two {
     margin: 1.5em;
       padding-top: 0;
  }
-    
-    @font-face {
-    font-family: 'Pilowlava';
-    src: url('Pilowlava-Regular.woff2') format('woff2'),
-        url('Pilowlava-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
