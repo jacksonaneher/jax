@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Pilowlava';
-    src: url('Pilowlava-Regular.eot') format('eot');
-    src: url('Pilowlava-Regular.woff2') format('woff2'),
-        url('Pilowlava-Regular.woff') format('woff');
+    src: url('fonts/Pilowlava-Regular.webfont.eot') format('eot');
+    src: url('/fonts/Pilowlava-Regular.webfont.woff2') format('woff2'),
+        url('/fonts/Pilowlava-Regular.webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
