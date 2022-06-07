@@ -1,9 +1,3 @@
-@font-face {
-  font-family: "Pilowlava";
-  src: url("jax/css/Pilowlava-Regular-webfont.woff2") format("woff2"),
-       url("jax/css/Pilowlava-Regular-webfont.woff") format("woff");
-}
-
 html {
     
     background: #222222;
