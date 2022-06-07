@@ -1,5 +1,14 @@
+@font-face {
+    font-family: 'pilowlavaregular';
+    src: url('pilowlava-regular-webfont.woff2') format('woff2'),
+         url('pilowlava-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 html {
-    
+    font-family: 'pilowlavaregular';
     background: #222222;
     font-size: 100%;
 }
