@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'pilowlavaregular';
-    src: url('https://raw.githubusercontent.com/jacksonaneher/jax/blob/cbead75a559eb937e757b5e7a02e91fe9824db3a/Pilowlava-Regular.woff') format('woff'),
-         url('https://raw.githubusercontent.com/jacksonaneher/jax/blob/cbead75a559eb937e757b5e7a02e91fe9824db3a/Pilowlava-Regular.woff2') format('woff2');
+    src: url('fonts/pilowlava-regular.woff2') format('woff2'),
+         url('fonts/pilowlava-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
+
 
 html {
     font-family: 'pilowlavaregular';
