@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'pilowlavaregular';
-    src: url('https://github.com/jacksonaneher/jax/blob/cbead75a559eb937e757b5e7a02e91fe9824db3a/Pilowlava-Regular.woff') format('woff'),
-         url('https://github.com/jacksonaneher/jax/blob/cbead75a559eb937e757b5e7a02e91fe9824db3a/Pilowlava-Regular.woff2') format('woff2');
+    src: url('https://raw.githubusercontent.com/jacksonaneher/jax/blob/cbead75a559eb937e757b5e7a02e91fe9824db3a/Pilowlava-Regular.woff') format('woff'),
+         url('https://raw.githubusercontent.com/jacksonaneher/jax/blob/cbead75a559eb937e757b5e7a02e91fe9824db3a/Pilowlava-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
