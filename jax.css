@@ -33,25 +33,25 @@ a {
 
 a.links { 
     font-family: 'Inconsolata';
-    color: #f0cf61;
+    color: #3100ff;
     
 }
 
 a.links:hover {
-    color: #DDAE13;
+    color: #170077;
     text-decoration: underline;
-    text-decoration-color: #DDAE13;
+    text-decoration-color: #170077;
 }
 
 span.links { 
-    color: #f0cf61;
+    color: #3100ff;
     
 }
 
 span.links:hover {
-    color: #DDAE13;
+    color: #170077;
     text-decoration: underline;
-    text-decoration-color: #DDAE13;
+    text-decoration-color: #170077;
 }
 
 
@@ -64,7 +64,7 @@ a.links-indent {
 a.links-indent:hover {
     color: #170077;
     text-decoration: underline;
-    text-decoration-color: #DDAE13;
+    text-decoration-color: #170077;
 }
 
 h1 {
