@@ -2,14 +2,14 @@
 html {
     font-family: 'pilowlavaregular';
     background: rgb(111,124,255);
-    background: linear-gradient(90deg, rgba(111,124,255,1) 0%, rgba(75,75,75,1) 100%);
+    background: linear-gradient(180deg, rgba(111,124,255,1) 0%, rgba(75,75,75,1) 100%);
     font-size: 100%;
 }
 
 body {
     font-family: 'Avenir Next', sans-serif;
     background: rgb(111,124,255);
-    background: linear-gradient(90deg, rgba(111,124,255,1) 0%, rgba(75,75,75,1) 100%);
+    background: linear-gradient(180deg, rgba(111,124,255,1) 0%, rgba(75,75,75,1) 100%);
     
 
 }
@@ -57,12 +57,12 @@ span.links:hover {
 
 a.links-indent { 
     font-family: 'Inconsolata';
-    color: #f0cf61;
+    color: #3100ff;
     margin-left: 1.5rem;
 }
 
 a.links-indent:hover {
-    color: #DDAE13;
+    color: #170077;
     text-decoration: underline;
     text-decoration-color: #DDAE13;
 }
