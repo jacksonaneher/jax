@@ -31,7 +31,7 @@ a {
 
 a.links { 
     font-family: 'Inconsolata';
-    color: #3100ff;
+    color: #9ebcff;
     
 }
 
@@ -42,7 +42,7 @@ a.links:hover {
 }
 
 span.links { 
-    color: #3100ff;
+    color: #9ebcff;
     
 }
 
@@ -55,7 +55,7 @@ span.links:hover {
 
 a.links-indent { 
     font-family: 'Inconsolata';
-    color: #3100ff;
+    color: #9ebcff;
     margin-left: 1.5rem;
 }
 
