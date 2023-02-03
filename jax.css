@@ -1,15 +1,13 @@
 
 html {
     font-family: 'pilowlavaregular';
-    background: rgb(111,124,255);
-    background: linear-gradient(180deg, rgba(111,124,255,1) 0%, rgba(75,75,75,1) 100%);
+    background: #5f8171;
     font-size: 100%;
 }
 
 body {
     font-family: 'Avenir Next', sans-serif;
-    background: rgb(111,124,255);
-    background: linear-gradient(180deg, rgba(111,124,255,1) 0%, rgba(75,75,75,1) 100%);
+    background: #5f8171;
     
 
 }
