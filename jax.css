@@ -1,13 +1,13 @@
 
 html {
     font-family: 'pilowlavaregular';
-    background: #5f8171;
+    background: #ffffff;
     font-size: 100%;
 }
 
 body {
     font-family: 'Avenir Next', sans-serif;
-    background: #5f8171;
+    background: #ffffff;
     
 
 }
@@ -24,56 +24,56 @@ body {
 
 a {
     text-decoration: none;
-    color: #E1E0D4;
+    color: #DADADA;
     font-size: 1rem;
     
 }
 
 a.links { 
     font-family: 'Inconsolata';
-    color: #9ebcff;
+    color: #0000ff;
     
 }
 
 a.links:hover {
-    color: #170077;
+    color: #76BBF9;
     text-decoration: underline;
-    text-decoration-color: #170077;
+    text-decoration-color: #76BBF9;
 }
 
 span.links { 
-    color: #9ebcff;
+    color: #0000ff;
     
 }
 
 span.links:hover {
-    color: #170077;
+    color: #76BBF9;
     text-decoration: underline;
-    text-decoration-color: #170077;
+    text-decoration-color: #76BBF9;
 }
 
 
 a.links-indent { 
     font-family: 'Inconsolata';
-    color: #9ebcff;
+    color: #0000ff;
     margin-left: 1.5rem;
 }
 
 a.links-indent:hover {
-    color: #170077;
+    color: #76BBF9;
     text-decoration: underline;
-    text-decoration-color: #170077;
+    text-decoration-color: #76BBF9;
 }
 
 h1 {
     font-family: 'Dela Gothic One';
     font-size: 2rem;
-    color: #E1E0D4;
+    color: #000000;
 }
 
 h2 {
     font-size: 1.15rem;
-    color: #E1E0D4;
+    color: #000000;
     font-weight: 400;
     line-height: 2rem;
     
@@ -88,7 +88,7 @@ h3 {
 h5 {
     font-family: 'Dela Gothic One';
     font-size: 0.75rem;
-    color: #E1E0D4;
+    color: #000000;
     font-weight: 800;
     letter-spacing: 1.5px;
     text-transform: uppercase;
@@ -98,7 +98,7 @@ h5 {
 
 p.one {
     font-size: 1.25rem;
-    color: #E1E0D4;
+    color: #000000;
     font-weight:400;
     line-height: 1.75rem;
 }
@@ -106,7 +106,7 @@ p.one {
 
 span.two {
     font-size: 1rem;
-    color: #E1E0D4;
+    color: #000000;
     font-weight: 300;
     line-height: 0.5rem;
 }
